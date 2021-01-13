@@ -7,7 +7,7 @@
 - 🤔 I’m currently learning Front-End Development 🤣
 - 🤖 I’m looking for a society with passionate people for coding like me!!
 - 🤗 I would to really glad to help,If asked
-- ❣️ You can also send me [email][email]
+- ❣️ You can also send me email mohammadtanweer769@gmail.com
 - 👾 Fun fact: I love watching anime like Naruto 
 
 <br/>
@@ -30,6 +30,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="python" width="26px" src="https://cdn2.iconfinder.com/data/icons/well-known-1/1024/Python-256.png" />][python]
+[<img align="left" alt="python" width="26px" src="https://cdn2.iconfinder.com/data/icons/well-known-1/1024/Python-256.png" />][django]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML5]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS3]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
