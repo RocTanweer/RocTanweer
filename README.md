@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=RocTanweer&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=RocTanweer&show_icons=true&title_color=05acff&icon_color=05acff&text_color=242624&bg_color=bce4f7">
 
 
 
