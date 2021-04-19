@@ -8,7 +8,7 @@
 - 🤖 I’m looking for a society with passionate people for coding like me!!
 - 🤗 I would to really glad to help,If asked
 - ❣️ You can also send me email mohammadtanweer769@gmail.com
-- 👾 Fun fact: I love watching anime like Naruto 
+- 👾 Fun fact: I love watching anime like One Piece 
 
 <br/>
 
