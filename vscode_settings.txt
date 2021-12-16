@@ -11,6 +11,9 @@
   "editor.mouseWheelZoom": true,
   "explorer.confirmDelete": false,
   "editor.linkedEditing": false,
+  // "editor.fontFamily": "Consolas, 'Courier New', monospace",
+  "editor.fontFamily": "Fira Code, 'Courier New', monospace",
+  "editor.fontLigatures": true,
   "terminal.integrated.tabs.enabled": true,
   "workbench.iconTheme": "eq-material-theme-icons-darker",
   "code-runner.runInTerminal": true,
@@ -18,6 +21,7 @@
   "code-runner.executorMap": {
     "c": "cd $dir && gcc $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt && rm $fileNameWithoutExt.exe"
   },
+  "prettier.printWidth": 165,
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
   },
@@ -32,55 +36,7 @@
   "C_Cpp.updateChannel": "Insiders",
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "javascript.updateImportsOnFileMove.enabled": "always",
-  "better-comments.highlightPlainText": true,
-  "better-comments.tags": [
-    {
-      "tag": "!",
-      "color": "#FF2D00",
-      "strikethrough": false,
-      "underline": false,
-      "backgroundColor": "transparent",
-      "bold": false,
-      "italic": false
-    },
-    {
-      "tag": "?",
-      "color": "#98C379",
-      "strikethrough": false,
-      "underline": false,
-      "backgroundColor": "transparent",
-      "bold": false,
-      "italic": false
-    },
-    {
-      "tag": "//",
-      "color": "#474747",
-      "strikethrough": true,
-      "underline": false,
-      "backgroundColor": "transparent",
-      "bold": false,
-      "italic": false
-    },
-    {
-      "tag": "td",
-      "color": "#FF8C00",
-      "strikethrough": false,
-      "underline": false,
-      "backgroundColor": "transparent",
-      "bold": false,
-      "italic": false
-    },
-    {
-      "tag": "i",
-      "color": "#3498DB",
-      "strikethrough": false,
-      "underline": false,
-      "backgroundColor": "transparent",
-      "bold": false,
-      "italic": false
-    }
-  ],
-  "workbench.colorTheme": "Pitch Black"
+  "workbench.colorTheme": "Community Material Theme Ocean High Contrast"
 }
 // C:\Program Files\Git\git-bash.exe
 // // C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe
