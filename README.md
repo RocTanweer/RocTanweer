@@ -1,68 +1,95 @@
-### Hi there, I'm Roc 👋
+<a href="https://twitter.com/roc_tanweer" align="center">
+    <img src="git-header-gif.gif" width="100%" alt="Hi, I'm roc, I build stuff on the web"/>
+</a>
 
-## Welcome to my GitHub profile!!
+<br>
 
+## **Latest Projects**
 
-- 😎 I am a passionate Learner  
-- 🤔 I’m currently learning Front-End Development 🤣
-- 🤖 I’m looking for a society with passionate people for coding like me!!
-- 🤗 I would to really glad to help,If asked
-- ❣️ You can also send me email mohammadtanweer769@gmail.com
-- 👾 Fun fact: I love watching anime like One Piece 
+- [Authentication System with advance use of JWT](https://roc-auth.netlify.app/)
+- [Weather App using proxy server](https://weathering-with-roc.netlify.app/)
+- [Single Page Recipe App with vanilla js](https://recify.netlify.app/)
+- [Bookmark - Static site made with HTML, SCSS and Javascript](https://roctanweer.github.io/bookmark/)
 
-<br/>
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=RocTanweer&show_icons=true&title_color=05acff&icon_color=05acff&text_color=242624&bg_color=bce4f7">
+## **About**
 
+𝐈 𝐚𝐦 𝐚𝐧 𝐚𝐬𝐩𝐢𝐫𝐢𝐧𝐠 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐞𝐧𝐠𝐢𝐧𝐞𝐞𝐫👨‍💻, 𝐛𝐚𝐬𝐞𝐝 𝐢𝐧 **𝐈𝐧𝐝𝐢𝐚**, 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐖𝐞𝐛🌐 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐚𝐧𝐝 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐟𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥𝐬 𝐰𝐡𝐢𝐥𝐞 𝐛𝐮𝐢𝐥𝐝𝐢𝐧𝐠⚒️ 𝐫𝐞𝐚𝐥-𝐰𝐨𝐫𝐥𝐝 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬.
+<br>
+𝐀𝐩𝐚𝐫𝐭 𝐟𝐫𝐨𝐦 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞, 𝐈 𝐥𝐢𝐤𝐞 𝐀𝐧𝐢𝐦𝐞 𝐚𝐧𝐝 𝐈𝐜𝐞 𝐂𝐫𝐞𝐚𝐦
 
+<br>
 
-### Connect with me: 🙂
+## **Tech and Languages that I use**
 
-[<img align="left" alt="roc_tanweer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="roc_tanweer | facebook" width="22px" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Facebook_svg-256.png" />][fb]
-[<img align="left" alt="RocTanweer | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
-<!-- [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=round-square&logo=HTML5&logoColor=white)](https://roctanweer.github.io/roomhomepage/)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=round-square&logo=CSS3&logoColor=white)](https://roctanweer.github.io/todoApp/)
+[![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=round-square&logo=SASS&logoColor=white)](https://roctanweer.github.io/clipBoardLandingPage/)
+[![Styled Component](https://img.shields.io/badge/-Styled%20Component-DB7093?style=round-square&logo=styledcomponents&logoColor=white)](https://github.com/RocTanweer/authentication-system-frontend)
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=round-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=round-square&logo=javascript&logoColor=black)](https://roctanweer.github.io/aspirer/)
+[![React JS](https://img.shields.io/badge/-React-61DAFB?style=round-square&logo=react&logoColor=black)](https://github.com/RocTanweer/authentication-system-frontend)
+[![Node JS](https://img.shields.io/badge/-Node-339933?style=round-square&logo=nodedotjs&logoColor=white)](https://github.com/RocTanweer/authentication-system-backend)
+[![Express JS](https://img.shields.io/badge/-Express-000000?style=round-square&logo=express&logoColor=white)](https://github.com/RocTanweer/authentication-system-backend)
+[![Mongo DB](https://img.shields.io/badge/-MongoDB-47A248?style=round-square&logo=mongodb&logoColor=white)](https://github.com/RocTanweer/authentication-system-backend)
+[![C](https://img.shields.io/badge/-283593?style=round-square&logo=c&logoColor=white)](https://github.com/RocTanweer/C)
 
-<br />
+## **Tools I use and prefer**
 
-### Languages and Tools:
+[![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=round-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/download)
+[![Chrome](https://img.shields.io/badge/-Chrome-4285F4?style=round-square&logo=googlechrome&logoColor=white)](https://www.google.com/chrome/?brand=FKPE&gclid=Cj0KCQiApL2QBhC8ARIsAGMm-KE0Mx7VVef6uH0GG9du9eyx38fZgPnx3RMvt5ZuaayJhmouHyLgFDMaAqvTEALw_wcB&gclsrc=aw.ds)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=round-square&logo=git&logoColor=white)](https://git-scm.com/downloads)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=round-square&logo=github&logoColor=white)](https://github.com/RocTanweer)
+[![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=round-square&logo=figma&logoColor=white)](https://www.figma.com/downloads/)
+[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=round-square&logo=heroku&logoColor=white)](https://www.heroku.com/home)
+[![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=round-square&logo=netlify&logoColor=white)](https://www.netlify.com/)
 
-[<img align="left" alt="python" width="26px" src="https://cdn2.iconfinder.com/data/icons/well-known-1/1024/Python-256.png" />][python]
-[<img align="left" alt="django" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/django-2-282855.png" />][django]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML5]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS3]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-<!-- [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist] -->
-<!-- [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist] -->
+<br>
 
+## **GitHub Stats**
 
+<br>
 
-[twitter]: https://twitter.com/RocTanweer/
-[instagram]: https://www.instagram.com/roc_tanweer/
-[fb]: https://www.facebook.com/roc.tanweer.5/
-[vscode]: https://code.visualstudio.com/download/
-[HTML5]: https://en.wikipedia.org/wiki/HTML5/
-[CSS3]: https://en.wikipedia.org/wiki/CSS/
-[sass]: https://sass-lang.com/
-[js]: https://www.javascript.com/
-[git]: https://git-scm.com/
-[github]: https://github.com/
-[python]: https://www.python.org/
-[email]: mohammadtanweer769@gmail.com
-[django]: https://www.djangoproject.com/
-</br>
+<p align="center">
+    <img  src="https://github-readme-stats.vercel.app/api?username=RocTanweer&count_private=true&show_icons=true&title_color=05EBC5&bg_color=1E1926&text_color=EFEAFF&icon_color=6A43D6&hide_title=true" alt="Roc Tanweer's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RocTanweer&layout=compact&bg_color=1E1926&text_color=EFEAFF&hide_title=true&card_width=400" alt="Most Used Languages" />
+</p>
 
+<p align="center">
+</p>
 
+<details style="cursor:pointer;">
+    <summary>
+        <b>Useful Resources</b>
+    </summary>
+
+<a href="https://www.frontendmentor.io/">
+    <img src="https://img.shields.io/badge/-Frontend%20Mentor-3F54A3?style=round-square&logo=frontendmentor&logoColor=white" alt="Frontendmentor" />
+</a>
+<a href="https://devchallenges.io/">
+    <img src="https://img.shields.io/badge/-devchallenges.io-f0402c?style=round-square&logo=devchallenges&logoColor=white" alt="Frontendmentor" />
+</a>
+<a href="https://www.codewars.com/">
+    <img src="https://img.shields.io/badge/-Codewars-B1361E?style=round-square&logo=codewars&logoColor=white" alt="Frontendmentor" />
+</a>
+<a href="https://cs50.harvard.edu/x/2022/">
+    <img src="https://img.shields.io/badge/-CS50x-000000?style=round-square&logoColor=white" alt="Frontendmentor" />
+</a>
+
+</details>
+
+<details style="cursor:pointer;">
+    <summary>
+        <b>Recent Blogs</b>
+    </summary>
+    <p><i>Coming Soon</i></p>
+</details>
+
+## **Let's Connect**
+
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=round-square&logo=twitter&logoColor=white)](https://twitter.com/roc_tanweer)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=round-square&logo=gmail&logoColor=white)](mailto:mohammadtanweer769@gmail.com)
+[![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=round-square&logo=hashnode&logoColor=white)](https://roctanweer.hashnode.dev/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=round-square&logo=instagram&logoColor=white)](https://www.instagram.com/roc_tanweer/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=round-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roc-tanweer-51708b1ba/)
