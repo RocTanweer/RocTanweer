@@ -2,8 +2,6 @@
     <img src="git-header-gif.gif" width="100%" alt="Hi, I'm roc, I build stuff on the web"/>
 </a>
 
-<br>
-
 ## **Latest Projects**
 
 - [Authentication System with advance use of JWT](https://roc-auth.netlify.app/)
@@ -11,15 +9,11 @@
 - [Single Page Recipe App with vanilla js](https://recify.netlify.app/)
 - [Bookmark - Static site made with HTML, SCSS and Javascript](https://roctanweer.github.io/bookmark/)
 
-<br>
-
 ## **About**
 
 𝐈 𝐚𝐦 𝐚𝐧 𝐚𝐬𝐩𝐢𝐫𝐢𝐧𝐠 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐞𝐧𝐠𝐢𝐧𝐞𝐞𝐫👨‍💻, 𝐛𝐚𝐬𝐞𝐝 𝐢𝐧 **𝐈𝐧𝐝𝐢𝐚**, 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐖𝐞𝐛🌐 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐚𝐧𝐝 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐟𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥𝐬 𝐰𝐡𝐢𝐥𝐞 𝐛𝐮𝐢𝐥𝐝𝐢𝐧𝐠⚒️ 𝐫𝐞𝐚𝐥-𝐰𝐨𝐫𝐥𝐝 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬.
 <br>
 𝐀𝐩𝐚𝐫𝐭 𝐟𝐫𝐨𝐦 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞, 𝐈 𝐥𝐢𝐤𝐞 𝐀𝐧𝐢𝐦𝐞 𝐚𝐧𝐝 𝐈𝐜𝐞 𝐂𝐫𝐞𝐚𝐦
-
-<br>
 
 ## **Tech and Languages that I use**
 
@@ -45,11 +39,7 @@
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=round-square&logo=heroku&logoColor=white)](https://www.heroku.com/home)
 [![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=round-square&logo=netlify&logoColor=white)](https://www.netlify.com/)
 
-<br>
-
 ## **GitHub Stats**
-
-<br>
 
 <p align="center">
     <img  src="https://github-readme-stats.vercel.app/api?username=RocTanweer&count_private=true&show_icons=true&title_color=05EBC5&bg_color=1E1926&text_color=EFEAFF&icon_color=6A43D6&hide_title=true" alt="Roc Tanweer's GitHub stats" />
