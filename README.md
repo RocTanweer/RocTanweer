@@ -11,9 +11,9 @@
 
 ## **About**
 
-𝐈 𝐚𝐦 𝐚𝐧 𝐚𝐬𝐩𝐢𝐫𝐢𝐧𝐠 𝕊𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝔼𝐧𝐠𝐢𝐧𝐞𝐞𝐫👨‍💻, 𝐛𝐚𝐬𝐞𝐝 𝐢𝐧 𝐈𝐧𝐝𝐢𝐚, 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐖𝐞𝐛🌐 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐚𝐧𝐝 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐟𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥𝐬 𝐰𝐡𝐢𝐥𝐞 𝐛𝐮𝐢𝐥𝐝𝐢𝐧𝐠⚒️ 𝐫𝐞𝐚𝐥-𝐰𝐨𝐫𝐥𝐝 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬.
+**I am an aspiring Software Engineer👨‍💻, based in India, currently learning Web🌐 Development and programming fundamentals while building⚒️ real-world projects.
 <br>
-𝐀𝐩𝐚𝐫𝐭 𝐟𝐫𝐨𝐦 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞, 𝐈 𝐥𝐢𝐤𝐞 𝐀𝐧𝐢𝐦𝐞 𝐚𝐧𝐝 𝐈𝐜𝐞 𝐂𝐫𝐞𝐚𝐦
+Apart from Computer Science, I like Anime and Ice Cream**
 
 ## **Tech and Languages that I use**
 
@@ -81,5 +81,4 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=round-square&logo=twitter&logoColor=white)](https://twitter.com/roc_tanweer)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=round-square&logo=gmail&logoColor=white)](mailto:mohammadtanweer769@gmail.com)
 [![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=round-square&logo=hashnode&logoColor=white)](https://roctanweer.hashnode.dev/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=round-square&logo=instagram&logoColor=white)](https://www.instagram.com/roc_tanweer/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=round-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roc-tanweer-51708b1ba/)
